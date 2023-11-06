@@ -1,5 +1,4 @@
 # weedleaf-ub
-powerful userbot with some features , for more query check out my repository
 # Deploy on Heroku 🚀
 The easiest way to deploy 
 
